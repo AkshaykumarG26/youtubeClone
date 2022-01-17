@@ -2,9 +2,6 @@
 
 <tr>
 
-
-## Youtube Clone
-
 ### Home Page
 ![](https://github.com/AkshaykumarG26/youtubeClone/blob/master/homePage.png)
 
