@@ -6,7 +6,7 @@
 ## Youtube Clone
 
 ### Home Page
-![](https://github.com/taherahmed14/Groww-Clone/blob/main/Groww%20Clone%20Screenshots/Groww%20Home%20Page.png)
+![](https://github.com/AkshaykumarG26/youtubeClone/blob/master/homePage.png)
 
 
 ## [Getting Started]
